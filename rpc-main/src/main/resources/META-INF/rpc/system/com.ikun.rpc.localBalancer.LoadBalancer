@@ -1,0 +1,3 @@
+random=com.ikun.rpc.localBalancer.RandomLoadBalancer
+roundRobin=com.ikun.rpc.localBalancer.RoundRobinLoadBalancer
+consistentHash=com.ikun.rpc.localBalancer.ConsistentHashLoadBalancer

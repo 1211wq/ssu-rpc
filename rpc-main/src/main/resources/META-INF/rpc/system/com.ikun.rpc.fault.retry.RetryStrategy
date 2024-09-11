@@ -1,0 +1,2 @@
+no=com.ikun.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.ikun.rpc.fault.retry.FixedIntervalRetryStrategy

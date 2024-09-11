@@ -1,0 +1,3 @@
+rpc:
+  serializer: "jdk"
+  serverPort: 8105

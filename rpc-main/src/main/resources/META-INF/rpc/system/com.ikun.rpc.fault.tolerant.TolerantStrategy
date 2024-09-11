@@ -1,0 +1,4 @@
+failBack=com.ikun.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.ikun.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.ikun.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.ikun.rpc.fault.tolerant.FailSafeTolerantStrategy
